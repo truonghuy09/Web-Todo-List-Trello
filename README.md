@@ -1,7 +1,7 @@
-# Web Todo List – Jira Mini
+# Web Todo List – Trello
 
 ## Giới thiệu
-Dự án Web Todo List mô phỏng hệ thống Jira Mini, phục vụ môn Đồ án chuyên ngành.
+Dự án Web Todo List mô phỏng hệ thống Trello, phục vụ môn Đồ án chuyên ngành.
 
 ## Mục tiêu
 - Quản lý công việc theo Kanban Board
